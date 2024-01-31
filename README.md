@@ -1,3 +1,5 @@
+[![OrangeFox - Build](https://github.com/TDD788/OrangeFox-Action-Builder/actions/workflows/OrangeFox-Compile.yml/badge.svg?branch=main&event=create)](https://github.com/TDD788/OrangeFox-Action-Builder/actions/workflows/OrangeFox-Compile.yml)
+
 # OrangeFox Action Builder
 Compile your first custom recovery from OrangeFox Recovery using Github Action.
 
